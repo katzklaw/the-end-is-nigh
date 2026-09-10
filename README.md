@@ -4,6 +4,7 @@ IF you also have my [banlist mod](https://github.com/katzklaw/banlist) this mod 
 
 usage:  
 /em or /endmeeting - immediately ends the meeting as if everyone skipped
+
 /eg or /endgame - immediately ends the game as "impostor disconnect"
 
 please do not use this to troll. 😩
