@@ -1,0 +1,20 @@
+c:\Users\Admin\Desktop\the end is nigh\bin\Debug\net6.0\Ender.deps.json
+c:\Users\Admin\Desktop\the end is nigh\bin\Debug\net6.0\Ender.dll
+c:\Users\Admin\Desktop\the end is nigh\obj\Debug\net6.0\Ender.csproj.AssemblyReference.cache
+c:\Users\Admin\Desktop\the end is nigh\obj\Debug\net6.0\Ender.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\the end is nigh\obj\Debug\net6.0\Ender.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\the end is nigh\obj\Debug\net6.0\Ender.AssemblyInfo.cs
+c:\Users\Admin\Desktop\the end is nigh\obj\Debug\net6.0\Ender.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\the end is nigh\obj\Debug\net6.0\Ender.dll
+c:\Users\Admin\Desktop\the end is nigh\obj\Debug\net6.0\refint\Ender.dll
+c:\Users\Admin\Desktop\the end is nigh\obj\Debug\net6.0\ref\Ender.dll
+c:\Users\Admin\Desktop\im makin mods LOL\the end is nigh\bin\Debug\net6.0\Ender.deps.json
+c:\Users\Admin\Desktop\im makin mods LOL\the end is nigh\bin\Debug\net6.0\Ender.dll
+c:\Users\Admin\Desktop\im makin mods LOL\the end is nigh\obj\Debug\net6.0\Ender.csproj.AssemblyReference.cache
+c:\Users\Admin\Desktop\im makin mods LOL\the end is nigh\obj\Debug\net6.0\Ender.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\im makin mods LOL\the end is nigh\obj\Debug\net6.0\Ender.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\im makin mods LOL\the end is nigh\obj\Debug\net6.0\Ender.AssemblyInfo.cs
+c:\Users\Admin\Desktop\im makin mods LOL\the end is nigh\obj\Debug\net6.0\Ender.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\im makin mods LOL\the end is nigh\obj\Debug\net6.0\Ender.dll
+c:\Users\Admin\Desktop\im makin mods LOL\the end is nigh\obj\Debug\net6.0\refint\Ender.dll
+c:\Users\Admin\Desktop\im makin mods LOL\the end is nigh\obj\Debug\net6.0\ref\Ender.dll
