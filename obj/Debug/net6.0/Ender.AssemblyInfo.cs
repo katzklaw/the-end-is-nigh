@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Standalone /endgame and /endmeeting host commands for Among Us")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+dbe9d1f247988b0148a7cd80d3ba651d64408085")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ender")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ender")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
